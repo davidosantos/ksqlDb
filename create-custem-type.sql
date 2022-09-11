@@ -1,0 +1,1 @@
+create type nameOfTtype as struct<name varchar, age integer>;
